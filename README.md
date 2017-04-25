@@ -1,5 +1,5 @@
 # Design Kit WIP
-Collection of webfont cheatsheet icons imported into Sketch and Adobe XD to speed up the wireframing/prototyping process.
+A collection of webfont cheatsheet icons imported into Sketch and Adobe XD to speed up the wireframing/prototyping process.
 
 ionicons
 - [x] Import all Android icons
@@ -10,6 +10,7 @@ Maybe:
 - Boilerplate screens for Android/iOS
 - Boilerplate patterns
 - Boilerplate flows
+- Facebook Devices
 - fontawesome cheatsheet
 - simplelineicons cheatsheet
 - themify cheatsheet
