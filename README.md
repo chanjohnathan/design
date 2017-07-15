@@ -5,13 +5,15 @@ ionicons
 - [x] Import all Android icons
 - [x] Import all iOS icons
 - [x] Import all ion icons
-- [ ] Clean up icons by category
+- [x] Clean up icons by category
+
+Next:
+- fontawesome cheatsheet
+- Devices/FB Devices
 
 Maybe:
 - Boilerplate screens for Android/iOS
 - Boilerplate patterns
 - Boilerplate flows
-- Facebook Devices
-- fontawesome cheatsheet
 - simplelineicons cheatsheet
 - themify cheatsheet
